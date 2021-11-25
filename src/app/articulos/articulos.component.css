@@ -1,0 +1,6 @@
+table, td, th {border: 1px solid black;}
+table { border-collapse: collapse; margin: auto;}
+td, th {  font-family: Garamond; font-size: 1.5em; font-weight: bold;color: red; text-align: center;}
+th { font-family:  Verdana; font-weight: bold; color: saddlebrown;
+     background-color: sandybrown;}
+td { font-family: Arial; color: blue; background-color: cornsilk;}
